@@ -1,6 +1,6 @@
 <html><body>
-<h1 style= \'93color:blue;font-size:150%\'94 >DataManager Guides</h1>
-</p>
+<h1 style= "color:blue;font-size:150%" >DataManager Guides</h1>
+<p>
 1. Encrypt / Decrypt Files
 2. Save text notes (key/password)
 3. Auto backup to iCloud\
