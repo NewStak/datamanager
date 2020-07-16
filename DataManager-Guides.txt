@@ -1,10 +1,12 @@
 <html><body>
 <h1 style= "color:blue;font-size:150%" >DataManager Guides</h1>
 <p>
+<ul>
 <li>1. Encrypt / Decrypt Files</li>
 <li>2. Save text notes (key/password)</li>
 <li>3. Auto backup to iCloud</li>
 <li>4. Backup files is Encrypted by Password</li>
 <li>5. Allow import Backup from iCloud</li>
+</ul>
 </p>
 </body></html>
